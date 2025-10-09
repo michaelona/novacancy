@@ -24,3 +24,17 @@ It scrapes and analyzes occupancy data to provide live updates, historical trend
 ---
 
 ### 🗂️ File Structure
+novacancy/
+├── forecastModels/ # Forecasting scripts and ML models
+├── data/ # Collected occupancy data
+├── static/ # Planned assets (CSS/JS)
+├── templates/ # Planned web templates
+├── forecast_model.py
+└── README.md
+
+
+---
+
+### 📄 License
+This project is for educational and personal research use.  
+Developed at UNC Charlotte by Michael Onate.
