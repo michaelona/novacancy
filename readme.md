@@ -26,6 +26,7 @@ It scrapes and analyzes occupancy data to provide live updates, historical trend
 ### 🗂️ File Structure
 ```
 novacancy/
+│
 ├── forecastModels/ # Forecasting scripts and ML models
 ├── data/ # Collected occupancy data
 ├── static/ # Planned assets (CSS/JS)
