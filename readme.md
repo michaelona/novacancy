@@ -1,5 +1,5 @@
 # NoVacancy  
-**Campus Parking Occupancy Predictor & Visualiser for UNC Charlotte**
+**Campus Parking Occupancy Predictor & Visualizer for UNC Charlotte**
 
 NoVacancy is a Python-based project designed to give UNC Charlotte students quick insights into campus building occupancy and space availability.  
 It scrapes and analyzes occupancy data to provide live updates, historical trends, and forecasted crowd levels — helping commuter students plan smarter and save time.
