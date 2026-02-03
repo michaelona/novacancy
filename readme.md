@@ -48,4 +48,6 @@ novacancy/
 ### About This Project
 NoVacancy is for educational and personal research use.
 Developed at UNC Charlotte by Michael Onate.
+__This repository is used for display as the project is closed-source__ 
+
 </file>
