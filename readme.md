@@ -24,7 +24,7 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 ---
 
 ### Beta Screenshots
-_Images are for reference. They do not represent how the final product will look or function._
+_Images are proof-of-concept. Their design and functionality may change and does not represent the final product_
 ![Screenshot 1](media/screenshots/beta-screenshot-1.png)
 ![Screenshot 2](media/screenshots/beta-screenshot-2.png)
 
@@ -48,6 +48,6 @@ novacancy/
 ### About This Project
 NoVacancy is for educational and personal research use.
 Developed at UNC Charlotte by Michael Onate.
-__This repository is used for display as the project is closed-source__ 
+_This repository is used for display as the project is closed-source_ 
 
 </file>
