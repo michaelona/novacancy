@@ -16,9 +16,10 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 
 ### Tech Stack
 - **Languages:** Python  
-- **Libraries:** pandas, Plotly, Facebook Prophet
-- **Web Framework:** Flask *(planned)*  
-- **Frontend:** React, JavaScript, CSS *(planned)*  
+- **Libraries:** pandas, Meta Prophet
+- **Web Framework:** Flask
+- **Frontend:** React, JavaScript, CSS
+- **Hosting:** Firebase, Google Cloud
 
 ---
 
