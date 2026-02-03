@@ -23,6 +23,13 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 
 ---
 
+### Beta Screenshots
+![Screenshot 1](media/screenshots/beta-screenshot-1.png)
+![Screenshot 2](media/screenshots/beta-screenshot-2.png)
+
+
+---
+
 ### File Structure
 ```
 novacancy/
@@ -34,7 +41,6 @@ novacancy/
 ├── forecast_model.py
 └── README.md
 ```
-
 
 ---
 
