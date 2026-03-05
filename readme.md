@@ -31,23 +31,9 @@ _Images are proof-of-concept. Their design and functionality may change and does
 
 ---
 
-### File Structure
-```
-novacancy/
-│
-├── forecastModels/     # Forecasting scripts and ML models
-├── data/               # Collected occupancy data
-├── static/             # Planned assets (CSS/JS)
-├── templates/          # Planned web templates
-├── forecast_model.py
-└── README.md
-```
-
----
-
 ### About This Project
 NoVacancy is for educational and personal research use.
 Developed at UNC Charlotte by Michael Onate.
-_This repository is used for display as the project is closed-source._ 
+_This repository is used as to display updates and technical info as the project is not open source._ 
 
 </file>
