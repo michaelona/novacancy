@@ -34,6 +34,6 @@ _Images are proof-of-concept. Their design and functionality may change and does
 ### About This Project
 NoVacancy is for educational and personal research use.
 Developed at UNC Charlotte by Michael Onate.
-_This repository is used as to display updates and technical info as the project is not open source._ 
+_This repository is used as to display updates and info as the project is closed source._ 
 
 </file>
