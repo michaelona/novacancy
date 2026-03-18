@@ -25,8 +25,7 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 
 ### Beta Screenshots
 _Images are proof-of-concept. Their design and functionality may change and does not represent the final product_
-![Screenshot 1](media/screenshots/beta-screenshot-1.png)
-![Screenshot 2](media/screenshots/beta-screenshot-2.png)
+![Screenshot 1](media/screenshots/NoVac-beta.png)
 
 
 ---
