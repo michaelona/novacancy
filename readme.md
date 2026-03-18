@@ -11,8 +11,8 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 
 ### Features
 - **Occupancy Forecasting** – Predicts parking deck occupancy levels using machine learning models.  
-- **Historical Trends** – Interactive graphs let you browse occupancy history and usage patterns in the last day, week, and month.
-- **Live Updates** –  Parking data refreshes in real-time every 5 seconds. 
+- **Historical Trends** – Interactive graphs let you scroll between past data, current readings, and future forecasts.
+- **Live Updates** –  Live data refreshes every 5 seconds. 
 - **Data-driven Insights** – Data analysis finds patterns in campus usage, providing glanceable insights into usage patterns and best times to leave for a particular deck.  
 
 ---
