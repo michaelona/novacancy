@@ -15,11 +15,11 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 ---
 
 ### Tech Stack
-- **Languages:** Python  
+- **Languages:** Python, JavaScript, HTML, CSS
 - **Libraries:** pandas, Meta Prophet
-- **Web Framework:** Flask
-- **Frontend:** React, JavaScript, CSS
-- **Hosting:** Firebase, Google Cloud
+- **Web:** HTML, CSS, JavaScript
+- **Backend:** Python
+- **Database/Hosting:** Firebase, Google Cloud
 
 ---
 
@@ -31,8 +31,7 @@ _Images are proof-of-concept. Their design and functionality may change and does
 ---
 
 ### About This Project
-NoVacancy is for educational and personal research use.
-Developed at UNC Charlotte by Michael Onate.
-_This repository is used as to display updates and info as the project is closed source._ 
+NoVacancy is a personal project developed at UNC Charlotte by Michael Onate.
+_Source code is private._
 
 </file>
