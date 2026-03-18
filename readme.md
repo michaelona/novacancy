@@ -2,7 +2,7 @@
 **Campus Parking Occupancy Predictor & Visualizer for UNC Charlotte**
 
 > [!IMPORTANT]  
-> Just a heads up: this app has not been published yet. The webpage and backend systems are being developed and fine-tuned.
+> Just a heads up: this app is not out yet. The webpage and backend systems are being developed and fine-tuned.
 
 NoVacancy is a web application designed to give UNC Charlotte students quick insights into parking availability.  
 It analyzes occupancy data to provide live updates, historical trends, and forecasted crowd levels.
