@@ -2,15 +2,15 @@
 **Campus Parking Occupancy Predictor & Visualizer for UNC Charlotte**
 
 > [!IMPORTANT]  
-> Just a heads up: this app is not out yet. The webpage and backend systems are being developed and fine-tuned.
+> This project is undergoing a major overhaul. The focused has changed to a mobile-first approach with an iOS app in development and web app following later. Machine learning models are being redesigned from the ground up.
 
-NoVacancy is a web application designed to give UNC Charlotte students quick insights into parking availability.  
-It analyzes occupancy data to provide live updates, historical trends, and forecasted crowd levels.
+NoVacancy is an app designed for UNC Charlotte students to find parking faster.  
+It analyzes occupancy data to provide live updates, historical trends, and forecasted levels.
 
 ---
 
 ### Features
-- **Occupancy Forecasting** – Predicts parking deck occupancy levels using machine learning models up to 5 days in the future.
+- **Occupancy Forecasting** – Predicts parking deck occupancy levels using machine learning models up to 3 days in the future.
 - **Historical Trends** – Interactive graphs let you scroll between past data, current readings, and future forecasts.
 - **Live Updates** –  Live data refreshes every 5 seconds. 
 - **Data-driven Insights** – Data analysis finds patterns in campus usage, providing glanceable insights into usage patterns and best times to leave for a particular deck.  
@@ -18,18 +18,10 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 ---
 
 ### Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Libraries:** pandas, Meta Prophet
-- **Web:** HTML, CSS, JavaScript
+- **Languages:** Python, Swift
+- **Libraries:** pandas, scikit-learn
 - **Backend:** Python
-- **Database/Hosting:** Firebase, Google Cloud
-
----
-
-### Beta Screenshots
-_Images are proof-of-concept. Their design and functionality may change and does not represent the final product_
-![Screenshot 1](media/screenshots/NoVac-beta.png)
-
+- **Database:** Google Cloud Platform
 
 ---
 
