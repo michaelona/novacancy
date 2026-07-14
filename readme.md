@@ -19,13 +19,18 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 
 ### Tech Stack
 - **Languages:** Python, Swift
-- **Libraries:** pandas, scikit-learn
-- **Backend:** Python
-- **Database:** Google Cloud Platform
+- **Frameworks:** Flask, Gunicorn
+- **Libraries:** pandas, numpy, scikit-learn
+- **Backend:** Flask RESTful API
+- **Database:** PostgreSQL
+- **Cloud & Infrastructure:** Google Cloud Platform, Docker
+- **Mobile:** Swift (iOS)
 
 ---
 
-### About This Project
-NoVacancy is a personal project developed at UNC Charlotte by Michael Onate.
+### License
+All Rights Reserved. Copyright &copy; 2026 Michael Onate
+
+This repository is provided for informational and promotional purposes only. The NoVacancy name, branding, screenshots, media, and content in this repository may not be copied, reproduced, distributed, or used in any form without express written permission from the author. The underlying source code is maintained in a private repository and is not included here.
 
 </file>
