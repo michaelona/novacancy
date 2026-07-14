@@ -1,19 +1,19 @@
 # NoVacancy
-**Campus Parking Occupancy Predictor & Visualizer for UNC Charlotte**
+**Campus Parking Occupancy Forecaster for UNC Charlotte**
 
 > [!IMPORTANT]  
-> This project is undergoing a major overhaul. The focused has changed to a mobile-first approach with an iOS app in development and web app following later. Machine learning models are being redesigned from the ground up.
+> This project is undergoing a major overhaul. The focused has changed to a mobile-first approach with an iOS app in development and a web app following. Machine learning models and backend services are being redesigned from the ground up to provide the best experience possible.
 
-NoVacancy is an app designed for UNC Charlotte students to find parking faster.  
+NoVacancy is a for UNC Charlotte students to find parking faster.  
 It analyzes occupancy data to provide live updates, historical trends, and forecasted levels.
 
 ---
 
 ### Features
-- **Occupancy Forecasting** – Predicts parking deck occupancy levels using machine learning models up to 3 days in the future.
-- **Historical Trends** – Interactive graphs let you scroll between past data, current readings, and future forecasts.
-- **Live Updates** –  Live data refreshes every 5 seconds. 
-- **Data-driven Insights** – Data analysis finds patterns in campus usage, providing glanceable insights into usage patterns and best times to leave for a particular deck.  
+- **Live Updates** –  Live data refreshes every 15 seconds. 
+- **Occupancy Forecasting** – View occupancy forecasts for your favorite parking spots up to 72 hours ahead. Powered by machine learning models.
+- **Data Calender** – Revisit historical data to see how busy the campus was during special events, severe weather, or any specific date.
+- **Data-driven Insights** – A custom analysis engine peeks at current and future crowd levels, giving you quick insights to help you decide  when to arrive on campus for the most ideal parking spot. 
 
 ---
 
@@ -27,6 +27,5 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 
 ### About This Project
 NoVacancy is a personal project developed at UNC Charlotte by Michael Onate.
-_Source code is private._
 
 </file>
