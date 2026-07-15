@@ -32,6 +32,6 @@ It analyzes occupancy data to provide live updates, historical trends, and forec
 ### License
 All Rights Reserved. Copyright &copy; 2026 Michael Onate
 
-This repository is provided for informational and promotional purposes only. The NoVacancy name, branding, screenshots, media, and content in this repository may not be copied, reproduced, distributed, or used in any form without express written permission from the author. The underlying source code is maintained in a private repository and is not included here.
+This repository is provided for informational and promotional purposes only. The NoVacancy name, branding, screenshots, media, and content in this repository may not be copied, reproduced, distributed, or used in any form without express written permission from the author.
 
 </file>
