@@ -4,7 +4,7 @@
 > [!IMPORTANT]  
 > This project is undergoing a major overhaul. The focused has changed to a mobile-first approach with an iOS app in development and a web app following. Machine learning models and backend services are being redesigned from the ground up to provide the best experience possible.
 
-NoVacancy is a for UNC Charlotte students to find parking faster.  
+NoVacancy is a tool for UNC Charlotte students to find parking faster.  
 It analyzes occupancy data to provide live updates, historical trends, and forecasted levels.
 
 ---
