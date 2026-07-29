@@ -1,34 +1,45 @@
 # NoVacancy
-**Parking Availability Forecaster for UNC Charlotte**
+**An intelligent parking availability platform for UNC Charlotte**
 
-NoVacancy is a tool for UNC Charlotte students to find parking faster.  
-It analyzes occupancy data to provide live updates, historical trends, and forecasted levels, packaged in a thoughtfully designed iOS app.
 
 ---
 
-### Features
-- **Live Updates** –  Live data refreshes every 5 seconds. 
-- **Occupancy Forecasting** – View occupancy forecasts for your favorite parking spots up to 72 hours ahead. Powered by machine learning models.
-- **Data Calender** – Revisit historical data to see how busy the campus was during special events, severe weather, or any specific date.
-- **Data-driven Insights** – A custom analysis engine peeks at current and future crowd levels, giving you quick insights to help you decide  when to arrive on campus for the most ideal parking spot.
-- **Beautiful iOS app** - NoVacancy on iOS provides an intuitive and modern app experience. It's designed from the ground up to be glancable, customizable, and feature-rich.
+## Features
+- **Live Parking Availability** – View near real-time occupancy updates for campus parking decks.
+- **Onyx Forecasting Engine** – Custom-built machine learning models forecast parking availability up to 48 hours into the future
+- **Historical Calendar** – Browse historical parking conditions for any day to view trends, special events, holidays, and weather impacts.
+- **Beautiful iOS app** - NoVacancy on iOS provides an intuitive and modern app experience. Designed from the ground up to be glanceable, power efficient, and feature-rich.
+
+
+---
+
+### Meet Onyx
+Onyx is the name for the predictive intelligence behind NoVacancy. This custom-built machine learning model predicts availability using historical occupancy, weather, school academics and athletics, and much more. 
+- Extensively validated using walk-forward historical backtesting to evaluate performance across thousands of real-world forecasts.
+- Typical forecast error lands approximately within **6 percentage points**. It learns continuously as new parking data becomes available.
+
+*A live Forecast Accuracy Report is planned for a future release so users can view real-world model performance directly in the app.*
 
 ---
 
 ### Tech Stack
-- **Languages:** Python, Swift
-- **Frameworks:** Flask, Gunicorn
-- **Libraries:** pandas, numpy, scikit-learn
-- **Backend:** Flask RESTful API
-- **Database:** PostgreSQL
-- **Cloud & Infrastructure:** Google Cloud Platform, Docker
-- **Mobile:** Swift (iOS)
 
+- **Languages:** Python, Swift, SQL
+- **Frameworks:** SwiftUI, Flask, Gunicorn
+- **Machine Learning:** scikit-learn, pandas, NumPy
+- **Database:** PostgreSQL
+- **Cloud:** Google Cloud Run, Cloud SQL, Cloud Scheduler, Docker
+- **Authentication:** Firebase Authentication
 ---
 
-### License
-All Rights Reserved. Copyright &copy; 2026 Michael Onate
+## License
 
-This repository is provided for informational and promotional purposes only. The NoVacancy name, branding, screenshots, media, and content in this repository may not be copied, reproduced, distributed, or used in any form without express written permission from the author.
+**All Rights Reserved.**
+
+Copyright © 2026 Michael Onate
+
+This repository contains proprietary software developed by the author. The source code, forecasting pipeline, feature engineering, documentation, application assets, branding, screenshots, and other original content may not be copied, redistributed, reverse engineered, or used to create derivative works without prior written permission.
+
+Parking occupancy data and other third-party materials remain the property of their respective owners and are used subject to applicable permissions and terms.
 
 </file>
