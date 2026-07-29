@@ -2,7 +2,7 @@
 **Parking Availability Forecaster for UNC Charlotte**
 
 NoVacancy is a tool for UNC Charlotte students to find parking faster.  
-It analyzes occupancy data to provide live updates, historical trends, and forecasted levels.
+It analyzes occupancy data to provide live updates, historical trends, and forecasted levels, packaged in a thoughtfully designed iOS app.
 
 ---
 
