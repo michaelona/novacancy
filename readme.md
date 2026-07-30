@@ -1,5 +1,5 @@
 # NoVacancy
-**An intelligent parking availability platform for UNC Charlotte**
+**An intelligent parking availability forecaster for UNC Charlotte**
 <img width="2048" height="981" alt="Untitled(2)" src="https://github.com/user-attachments/assets/4658fba8-0fd2-4d1c-a465-43de07065a2f" />
 
 ---
