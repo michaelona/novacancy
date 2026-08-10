@@ -12,7 +12,7 @@
 
 
 ## Meet Onyx
-Onyx is the name for the predictive intelligence behind NoVacancy. This custom-built machine learning model predicts availability using historical occupancy, weather, school academics and athletics, and much more. 
+Onyx is the name for the predictive intelligence behind NoVacancy. This custom-built machine learning model predicts availability using historical occupancy, weather, school academic and athletic calendars, and more. 
 - Extensively tested using walk-forward historical backtesting to evaluate performance across thousands of real-world forecasts.
 - Typical forecast error lands approximately within **6 percentage points**. It learns continuously as new parking data becomes available.
 
