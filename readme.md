@@ -11,9 +11,7 @@
 - **Beautiful iOS app** - NoVacancy on iOS provides an intuitive and modern app experience. Designed from the ground up to be glanceable, power efficient, and feature-rich.
 
 
----
-
-### Meet Onyx
+## Meet Onyx
 Onyx is the name for the predictive intelligence behind NoVacancy. This custom-built machine learning model predicts availability using historical occupancy, weather, school academics and athletics, and much more. 
 - Extensively tested using walk-forward historical backtesting to evaluate performance across thousands of real-world forecasts.
 - Typical forecast error lands approximately within **6 percentage points**. It learns continuously as new parking data becomes available.
@@ -30,6 +28,13 @@ Onyx is the name for the predictive intelligence behind NoVacancy. This custom-b
 - **Database:** PostgreSQL
 - **Cloud:** Google Cloud Run, Cloud SQL, Cloud Scheduler, Docker
 - **Authentication:** Firebase Authentication
+
+
+## Download NoVacancy
+NoVacancy Campus will be available for iOS on the App Store on **August 17, 2026**.
+
+
+
 ---
 
 ## License
