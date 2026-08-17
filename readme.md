@@ -43,7 +43,7 @@ NoVacancy Campus will be available for iOS on the App Store on **August 17, 2026
 
 Copyright © 2026 Michael Onate
 
-This project contains proprietary software developed by the author. The source code, forecasting pipeline, feature engineering, documentation, application assets, branding, screenshots, and other original content may not be copied, redistributed, reverse engineered, or used to create derivative works without prior written permission.
+This project contains proprietary software developed by the author. The source code, forecasting pipeline, and other original content is private and may not be copied, redistributed, reverse engineered, or used to create derivative works without prior written permission.
 
 Parking occupancy data and other third-party materials remain the property of their respective owners and are used subject to applicable permissions and terms.
 
