@@ -31,7 +31,7 @@ Onyx is the name for the predictive intelligence behind NoVacancy. This custom-b
 
 
 ## Download NoVacancy
-NoVacancy Campus will be available for iOS on the App Store on **August 17, 2026**.
+NoVacancy Campus is available now on the [App Store](https://apps.apple.com/us/app/novacancy-campus/id6793805724)
 
 
 
