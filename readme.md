@@ -43,7 +43,7 @@ NoVacancy Campus is available now on the [App Store](https://apps.apple.com/us/a
 
 Copyright © 2026 Michael Onate
 
-This project contains proprietary software developed by the author. The source code, forecasting pipeline, and other original content is private and may not be copied, redistributed, reverse engineered, or used to create derivative works without prior written permission.
+This project contains proprietary software developed by the author. The source code, forecasting pipeline, and other original content is private and may not be copied or used to create derivative works without prior written permission.
 
 Parking occupancy data and other third-party materials remain the property of their respective owners and are used subject to applicable permissions and terms.
 
