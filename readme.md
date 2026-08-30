@@ -1,5 +1,5 @@
 # NoVacancy - Campus Parking Availability Forecaster
-<img width="2048" height="981" alt="Untitled(2)" src="https://github.com/user-attachments/assets/4658fba8-0fd2-4d1c-a465-43de07065a2f" />
+![Project Logo](media/screenshots/bannerpromo.jpg)
 
 > [!IMPORTANT]
 > The core source code is maintained in a private repository. Snippets of code that enables this project are available in the [snippets](/snippets) folder.
