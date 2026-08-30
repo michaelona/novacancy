@@ -31,7 +31,7 @@ Onyx is the name for the predictive intelligence behind NoVacancy. This custom-b
 - **Authentication:** Firebase Authentication
 
 
-## Download NoVacancy
+## Get NoVacancy
 NoVacancy Campus is available now on the [App Store](https://apps.apple.com/us/app/novacancy-campus/id6793805724)
 
 
