@@ -27,7 +27,7 @@ Onyx is the name for the predictive intelligence behind NoVacancy. This custom-b
 - **Frameworks:** SwiftUI, Flask, Gunicorn
 - **Machine Learning:** scikit-learn, pandas, NumPy
 - **Database:** PostgreSQL
-- **Cloud:** Google Cloud Run, Cloud SQL, Cloud Scheduler, Docker
+- **Cloud:** Google Cloud Platform, Docker
 - **Authentication:** Firebase Authentication
 
 
