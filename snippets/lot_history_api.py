@@ -103,7 +103,7 @@ def get_lot_history(lot_code):
         MAX_LIMIT,
     )
 
-    # 4. Query PostgreSQL using parameterized SQL.
+    # 4. Query PostgreSQL using parameters.
     with db_cursor() as cur:
         if start and end:
             cur.execute(
