@@ -2,7 +2,7 @@
 <img width="2048" height="981" alt="Untitled(2)" src="https://github.com/user-attachments/assets/4658fba8-0fd2-4d1c-a465-43de07065a2f" />
 
 > [!IMPORTANT]
-> The core source code is maintained in a private repository to protect proprietary IP. This repository contains the project's architecture overview and marketing assets. Snippets of code that make this project possible are available in the **snippets** folder)
+> The core source code is maintained in a private repository to protect self-made systems. This repository contains the project's architecture overview and marketing assets. Snippets of code that make this project possible are available in the **snippets** folder)
 ---
 
 ## Features
