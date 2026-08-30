@@ -94,7 +94,7 @@ def get_lot_history(lot_code):
             "lot_code": lot_code,
         }), 404
 
-    # 3. Read any optional query parameters and cap the row count.
+    # 3. Read any optional query parameters and set the default row count.
     start = request.args.get("start")
     end = request.args.get("end")
 
