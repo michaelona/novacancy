@@ -26,7 +26,7 @@ CREATE TABLE IF NOT EXISTS announcements (
     id SERIAL PRIMARY KEY,
     title TEXT,
     content TEXT NOT NULL,
-    urgency TEXT NOT NULL DEFAULT 'generic',
+    urgency TEXT NOT NULL DEFAULT 'info',
     is_active BOOLEAN NOT NULL DEFAULT TRUE,
     is_dismissible BOOLEAN NOT NULL DEFAULT TRUE,
     starts_at TIMESTAMPTZ,
