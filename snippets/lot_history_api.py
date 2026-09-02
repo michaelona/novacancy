@@ -22,8 +22,6 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-# Database credentials are supplied through environment variables
-# rather than being hardcoded into source code.
 DB_CONFIG = {
     "dbname": os.environ["DB_NAME"],
     "host": os.environ["DB_HOST"],
