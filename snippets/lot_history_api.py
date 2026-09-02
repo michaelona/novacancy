@@ -80,7 +80,7 @@ def db_cursor():
 
 @app.route("/lots/<path:lot_code>/history")
 def get_lot_history(lot_code):
-    # 1. Authenticate before accessing the database.
+    # 1. Authenticate first
     error = check_api_key()
     if error:
         return error
