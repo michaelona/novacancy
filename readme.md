@@ -2,7 +2,7 @@
 ![Project Logo](media/screenshots/bannerpromo.jpg)
 
 > [!IMPORTANT]
-> The core source code is maintained in a private repository. Snippets of code that enable this project are available in the [snippets](/snippets) folder.
+> The core source code is maintained in a private repository. Public snippets of code that enable this project are available in the [snippets](/snippets) folder.
 ---
 
 ## Features
