@@ -11,8 +11,6 @@ Demonstrates:
 - Database connection management
 - JSON serialization
 
-The production backend is maintained in a private repository,
-so this file acts as a public-facing example.
 """
 
 import os
